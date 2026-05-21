@@ -2,7 +2,7 @@
 // switch statement 
 
 
-// let day = 7; 
+// let day = 3; 
 
 
 // if(day === 0){
@@ -24,7 +24,7 @@
 // }
 
 
-let day = 9;
+let day = 4;
 
 switch(day){
     case 0:

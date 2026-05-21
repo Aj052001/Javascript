@@ -23,3 +23,4 @@ if(firstName[0] === "H" || age>18){
 }else{
     console.log("inside else");
 }
+

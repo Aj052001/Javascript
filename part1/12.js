@@ -14,3 +14,22 @@
 // != vs !==
 
 // console.log(num1 !== num2);
+
+
+
+// operators 
+
+// + add
+// - minus
+// * multiply
+// / divide
+// = value assign 
+// == compare value 
+// === compare both value and type 
+// <  less than 
+// > greater than 
+// >= less than equal to 
+// <= greater than equal to 
+// % modulas = remainder
+// !=  not equal to 
+// !== not equal to 

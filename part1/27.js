@@ -2,8 +2,8 @@
 
 // array shift unshift 
 
-let fruits = ["apple", "mango", "grapes"];
-console.log(fruits);
+// let fruits = ["apple", "mango", "grapes"];
+// console.log(fruits);
 // push 
 // fruits.push("banana");
 // console.log(fruits);
@@ -21,3 +21,22 @@ console.log(fruits);
 // let removedFruit = fruits.shift();
 // console.log(fruits);
 // console.log("removed fruits is ", removedFruit);
+
+
+
+
+let fruits = ["apple", "mango", "grapes"];
+fruits[1] = "banana"
+console.log(fruits)
+
+// push add item from last 
+// fruits.push("banana")
+// console.log(fruits)
+
+// unshift add item from beginning
+// fruits.unshift("banana")
+// console.log(fruits)
+
+
+// fruits.shift()
+// console.log(fruits)
